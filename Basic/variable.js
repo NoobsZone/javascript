@@ -26,3 +26,18 @@ console.log(gugu)
 console.log('asif1', asif1);
 console.log('asif2', asif2);
 console.log('asif3', asif3);
+
+
+// function gugu(){
+//     let asif = "dsdsdd";
+
+// }
+
+var huhu = "asss";
+huhu = "whdsudhsud";
+
+let asif1 = "asifkana"
+asif1="asifkanaChuda";
+console.log('asif', asif)
+
+// let asif = "asif kana"
