@@ -7,3 +7,4 @@ console.log('lalu', lalu)
 console.log('gugu', gugu)
 let length = text.length;
 console.log('length', length)
+
